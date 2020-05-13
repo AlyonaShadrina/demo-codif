@@ -1,0 +1,21 @@
+{
+  "short_name": "codif",
+  "name": "codif",
+  "description": "Manage, edit, analise your documents automatically.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo40.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    }
+  ],
+  "start_url": ".",
+  "display": "minimal-ui",
+  "theme_color": "#42A3FF",
+  "background_color": "#F4F7FC"
+}
